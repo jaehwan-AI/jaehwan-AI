@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehwan-AI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+ ![Python Badge](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white)
+	
 </div>
 
 
