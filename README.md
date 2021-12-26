@@ -11,7 +11,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehwan-AI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Python Badge](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white)
+<a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<a href="https://www.pytorchlightning.ai/">
+    <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorch Lightning&logoColor=white"/></a>
 	
 </div>
 
