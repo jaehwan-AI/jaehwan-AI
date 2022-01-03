@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <a href="https://www.pytorchlightning.ai/">
     <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorch Lightning&logoColor=white"/></a>
-	
+    <img src="https://img.shields.io/badge/Tensorflow-ffb13b?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
 </div>
 
 
